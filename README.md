@@ -1,21 +1,21 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Jose's GitHub Profile! 👋
 
-Hi there! I'm [Your Name], a passionate [Your Profession/Interest] based in [Your Location]. Welcome to my GitHub profile, where I share my projects, contributions, and more.
+Hi there! I'm Jose Luis Lanza, a passionate QA Engineer/Code Enthusiast based in Cochabamba - Bolivia. Welcome to my GitHub profile, where I share my projects, contributions, and more.
 
 ## About Me
 
-- 🌐 [Your Website/Portfolio]
-- 💼 [Your LinkedIn Profile]
-- 📧 [Your Email]
+- 🌐 coming soon portfolio
+- 💼 www.linkedin.com/in/jose-luis-lanza
+- 📧 joseluis.lanza.e@gmail.com
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** [List of Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Databases:** [List of Databases]
-- **Other Tools:** [List of Other Tools]
+- **Programming Languages:** Python
+- **Frameworks & Libraries:** coming soon
+- **Databases:** SQL, MySQL, SQL Server
+- **Other Tools:** Jira, Trello, Postman, TestRail, Qase
 
 ## 🚀 Projects
 
@@ -31,9 +31,9 @@ Feel free to explore more in my repositories!
 
 I'm always eager to learn new technologies. Currently, I'm focused on:
 
-- [Learning Goal 1]
-- [Learning Goal 2]
-- [Learning Goal 3]
+- Learning Python
+- Algorithms and Programming Logic
+- Automation Testing 
 
 ## 📈 GitHub Stats
 
@@ -41,9 +41,8 @@ I'm always eager to learn new technologies. Currently, I'm focused on:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- Twitter: [Your Twitter]
+- LinkedIn: www.linkedin.com/in/jose-luis-lanza
+- Email: joseluis.lanza.e@gmail.com
 
 Feel free to reach out! Whether it's for collaboration, feedback, or just to say hi, I'm always open to connecting with fellow developers.
 
